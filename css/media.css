@@ -1,0 +1,223 @@
+@media(max-width:767px){
+
+    .navbar-light .navbar-nav .nav-link {
+        padding: 10px 0;
+        
+    }
+
+    .banner-content h1{
+        text-align: center;
+        font-size: 45px;
+
+    }
+
+    .banner-content span{
+
+        text-align: center;
+        font-size: 45px;
+    }
+
+    .hg {
+        min-height: 60vh;
+    }
+
+    .btn-btn{
+        margin-top: 40px;
+    }
+
+    .btn-strt, .btn-prtfolio{
+
+        padding: 3px 7px;
+        margin: 5px;
+    }
+
+   .pt-5, .py-5{
+
+    padding-top: 0 !important;
+
+   }
+    
+   .details h1{
+
+    font-size: 35px;
+   }
+
+   .details p{
+
+    font-size: 17px;
+    padding-top: 8px;
+   }
+
+   .bar{
+
+    padding-top: 20px;
+   }
+
+   .bar h5{
+
+    font-size: 19px;
+    margin-bottom: 25px;
+   }
+
+   .badge-percent{
+
+    font-size: 14px;
+    padding: 4px;
+    margin-left: -30px;
+   }
+
+   .badge-percent::after{
+
+    top: 29%;
+    left: -33px;
+    height: 12px;
+    width: 12px;
+
+   }
+
+   .filter-button{
+
+    margin-bottom: 0;
+    
+   }
+
+   .border-story{
+
+    margin-bottom: 15px;
+   }
+
+   .img-fluid{
+
+    margin-bottom: 15px;
+   }
+
+   .in-touch p{
+
+    padding: 0;
+   }
+
+}
+
+
+
+
+
+
+@media(max-width:575px){
+
+    .navbar-light .navbar-nav .nav-link {
+        padding: 10px 0;
+        
+    }
+
+    .banner-content h1{
+        text-align: center;
+        font-size: 40px;
+
+    }
+
+    .banner-content span{
+
+        text-align: center;
+        font-size: 35px;
+    }
+
+    .hg {
+        min-height: 60vh;
+    }
+    
+    .btn-btn{
+        margin-top: 40px;
+    }
+
+    .btn-strt, .btn-prtfolio{
+
+        padding: 3px 7px;
+        margin: 5px;
+    }
+
+    .pt-5, .py-5{
+
+        padding-top: 0 !important;
+    
+       }
+        
+       .details h1{
+    
+        font-size: 28px;
+       }
+
+       .details p{
+
+        font-size: 17px;
+        margin-top: 5px;
+       }
+       
+       .bar{
+
+        padding-top: 15px;
+       }
+
+       .bar h5{
+
+        font-size: 17px;
+        margin-bottom: 20px;
+       }
+
+       .badge-percent{
+
+        font-size: 14px;
+        padding: 4px;
+        margin-left: -30px;
+       }
+
+       .badge-percent::after{
+
+        top: 29%;
+        left: -33px;
+        height: 12px;
+        width: 12px;
+
+       }
+
+       .filter-button{
+
+        margin-bottom: 0;
+        
+       }
+
+       .border-story{
+
+        margin-bottom: 15px;
+       }
+
+       .img-fluid{
+
+        margin-bottom: 15px;
+       }
+
+       .in-touch p{
+
+        padding: 0;
+       }
+
+       .follow-icon ul li {
+
+        margin-right: 7px;
+        height: 44px;
+        width: 40px;
+
+       }
+
+       .follow-icon ul li a {
+        font-size: 18px;
+        
+    }
+
+    footer p{
+
+        font-size: 16px;
+        margin-top: 0;
+    }
+}   
+       
